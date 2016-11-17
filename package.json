@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mendixmodelcomponents": "^2.1.0",
     "mendixmodelsdk": "^2.9.1",
     "mendixplatformsdk": "^2.0.0",
     "when": "^3.7.7",

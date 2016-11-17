@@ -10,6 +10,9 @@
     },
     "node/node.d.ts": {
       "commit": "3a6e1b8988eba0ba74fe4db20c950242552857e2"
+    },
+    "xlsx/xlsx.d.ts": {
+      "commit": "68cabf45e1ad33b6766fa137ac7bea31fe22a729"
     }
   }
 }
